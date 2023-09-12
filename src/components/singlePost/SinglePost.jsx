@@ -10,7 +10,7 @@ export default function SinglePost() {
           alt=""
         />
         <h1 className="singlePostTitle">
-          Lorem ipsum dolor sit amet.
+          Dishaaaaaaaaaaaaaaaaaa
           <div className="singlePostEdit">
             <i className="singlePostIcon fa-solid fa-pen-to-square"></i>
             <i className="singlePostIcon fa-solid fa-trash-can"></i>
@@ -20,7 +20,7 @@ export default function SinglePost() {
           <span className="singlePostAuthor">
             Author: <b>Drizzel</b>
           </span>
-          <span className="singlePostDate">1 hour ago</span>
+          <span className="singlePostDate">2 hour ago</span>
         </div>
         <p className="singlePostDesc">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
